@@ -27,39 +27,39 @@ Készítsd el a mintának megfelelő oldalt:
 ### Feladatok a stilus.css-ben
 
 1. A teljes oldalra (body) állítsd be az alábbiakat: 
-   - háttérszín legyen fekete
-   - háttérkép ne ismétlődjön:  "kepek/auto_background_14.jpg"    
-   - a betűszín legyen fehér     
-   - az oldal maximális szélessége 1000px legyen.  (max-width:1000px;)
-   - az oldal elgyen középre igazítva (margin:auto;)
-   - állíts be Verdana, Geneva, Tahoma, sans-serif betűcsaládot!
+   - #háttérszín legyen fekete
+   - #háttérkép ne ismétlődjön:  "kepek/auto_background_14.jpg"    
+   - #a betűszín legyen fehér     
+   - #az oldal maximális szélessége 1000px legyen.  (max-width:1000px;)
+   - #az oldal elgyen középre igazítva (margin:auto;)
+   - #állíts be Verdana, Geneva, Tahoma, sans-serif betűcsaládot!
 
 2. A linkek: 
-    - színe orange;
-    - ne legyen aláhúzva
-    - a belső margó legyen 20px (padding: 20px;)
-    - a külső margó legyen 30px (padding: 30px;)
-    - legyen szegélye! (border:10px solid orange;)
-    - border-radius: 50%;
-    - háttérszíne:  rgb(50, 48, 48);
+    #- #színe orange;
+    #- #ne legyen aláhúzva
+    #- #a belső margó legyen 20px (padding: 20px;)
+    #- #a külső margó legyen 30px (padding: 30px;)
+    #- #legyen szegélye! (border:10px solid orange;)
+    #- #border-radius: 50%;
+    #- #háttérszíne:  rgb(50, 48, 48);
 
 3. A képekre állíts be
-   - szélessége legyen 400px (width: 400px;)
-   - legyen szegélye! (border:10px solid rgb(50, 48, 48);)  https://www.w3schools.com/css/css_border_shorthand.asp 
-   - lekerekített szegély: border-radius: 50%;
-   - belső margója 10px (padding: 10px)
+   #- #szélessége legyen 400px (width: 400px;)
+   #- #legyen szegélye! (border:10px solid rgb(50, 48, 48);)  https://www.w3schools.com/css/css_border_shorthand.asp 
+   #- #lekerekített szegély: border-radius: 50%;
+   #- #belső margója 10px (padding: 10px)
 
 4. A h1-es cím legyen: 
-    - középre igazítva
-    - betűsméret 50px
-    - a betűk közti távolság 30px
-    - legyen csupa nagybetűvel írva
-    - a belső margó legyen 20px (padding: 20px;)
-    - padding: 20px;
+    #- középre igazítva
+    #- betűsméret 50px
+    #- a betűk közti távolság 30px
+    #- legyen csupa nagybetűvel írva
+    #- a belső margó legyen 20px (padding: 20px;)
+    #- padding: 20px;
  
 
 5. A h2-es cím legyen: 
-    - háttérszíne:   rgb(50, 48, 48);
+    #- háttérszíne:   rgb(50, 48, 48);
     - belső margója 30px (padding: 30px)
     - lekerekített szegély: border-radius: 50%;
 
